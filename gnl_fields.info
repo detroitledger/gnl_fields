@@ -1,5 +1,0 @@
-name = gnl_fields
-description = fields for gnl
-core = 7.x
-dependencies[] = views
-files[] = views/handlers/field/gnl_fields_handler_fields.inc
